@@ -141,40 +141,34 @@ I love learning modern technologies, collaborating with teams, and continuously 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> Professional Skills
+## 🚀 Professional Skills
 
 <div align="center">
 
-**Frontend** &nbsp;
-![](https://progress-bar.dev/90/?width=250&color=8a6cff)
+| 💻 Development | 🤖 AI Engineering | ⚡ Engineering |
+|:--------------:|:----------------:|:-------------:|
+| ⚛️ React | 🧠 Prompt Engineering | 🏗 Clean Architecture |
+| 🟨 JavaScript | 🤖 OpenAI API | 🔗 REST APIs |
+| 🌐 HTML & CSS | ⚡ Groq API | 🔥 WebSockets |
+| 🟩 Django | ✨ Gemini API | 🛠 Git & GitHub |
+| 🟪 Laravel | 🔄 LLM Integration | 🗄 PostgreSQL |
+| 🎨 Material UI | ⚙ Transformer Basics | 📡 API Design |
 
-**Backend** &nbsp;
-![](https://progress-bar.dev/85/?width=250&color=8a6cff)
+</div>
 
-**React** &nbsp;
-![](https://progress-bar.dev/90/?width=250&color=8a6cff)
+<br>
 
-**Django** &nbsp;
-![](https://progress-bar.dev/85/?width=250&color=8a6cff)
+<div align="center">
 
-**REST APIs** &nbsp;
-![](https://progress-bar.dev/90/?width=250&color=8a6cff)
+<img src="https://img.shields.io/badge/Frontend-95%25-8A6CFF?style=for-the-badge"/>
 
-**Database Design** &nbsp;
-![](https://progress-bar.dev/80/?width=250&color=8a6cff)
+<img src="https://img.shields.io/badge/Backend-90%25-6C63FF?style=for-the-badge"/>
 
-**AI Integration** &nbsp;
-![](https://progress-bar.dev/85/?width=250&color=8a6cff)
+<img src="https://img.shields.io/badge/AI-88%25-5B4BFF?style=for-the-badge"/>
 
-**Problem Solving** &nbsp;
-![](https://progress-bar.dev/90/?width=250&color=8a6cff)
+<img src="https://img.shields.io/badge/Problem_Solving-95%25-8A6CFF?style=for-the-badge"/>
 
-**Git** &nbsp;
-![](https://progress-bar.dev/85/?width=250&color=8a6cff)
-
-**GitHub** &nbsp;
-![](https://progress-bar.dev/85/?width=250&color=8a6cff)
+<img src="https://img.shields.io/badge/Git_&_GitHub-92%25-6C63FF?style=for-the-badge"/>
 
 </div>
 
@@ -216,9 +210,6 @@ I love learning modern technologies, collaborating with teams, and continuously 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Framed%20Picture.png" width="30"/> Featured Projects
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
