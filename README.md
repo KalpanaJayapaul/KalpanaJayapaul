@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Kalpana%20J&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Developer&descAlignY=56&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A6CFF&height=230&section=header&text=Kalpana%20J&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=React%20%7C%20Django%20%7C%20AI%20Developer&descAlignY=56&descSize=20"/>
 
 <br/>
 
@@ -25,8 +25,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> About Me
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30"/> About Me
 <table>
 <tr>
 <td>
@@ -189,25 +188,25 @@ I love learning modern technologies, collaborating with teams, and continuously 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kalpanaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=KalpanaJayapaul&theme=tokyonight&hide_border=true" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalpanaJayapaul&theme=tokyo-night&hide_border=true" width="90%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&margin-w=10&row=1" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=KalpanaJayapaul&theme=darkhub&no-frame=true&margin-w=10&row=1" width="90%" />
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=8a6cff&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=8a6cff&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=KalpanaJayapaul&color=8a6cff&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/KalpanaJayapaul?style=for-the-badge&color=8a6cff&labelColor=1a1a2e)
 
 </div>
 
@@ -229,7 +228,7 @@ I love learning modern technologies, collaborating with teams, and continuously 
 
 <div align="center">
 
-<a href="https://your-portfolio-link.com">
+<a href="https://github.com/KalpanaJayapaul">
   <img src="https://img.shields.io/badge/Portfolio%20Website-24243e?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -249,10 +248,13 @@ I love learning modern technologies, collaborating with teams, and continuously 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kalpana-j-1370912bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:__________"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kalpana-j-1370912bb">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/KalpanaJayapaul">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -262,7 +264,7 @@ I love learning modern technologies, collaborating with teams, and continuously 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30"/> Coding Profiles
+## <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPplnCzc5Dh9-1e8GjxoW_DvZggd1jtBIL8FwpUeZeTA&s=10)" width="30"/> Coding Profiles
 
 <div align="center">
 
@@ -280,21 +282,22 @@ I love learning modern technologies, collaborating with teams, and continuously 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30"/> Fun Section
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBfSwwvyRnWo6VrTsnncFwdCwQ76SQulzySiUzhWatQ&s=10" width="30"/> Fun Section
+
 
 <table>
 <tr>
 <td>
 
-**Currently Learning:** `__________`
+**Currently Learning:** `Advanced Django • AI Agents • LangChain`
 
-**Building:** `__________`
+**Building:** `AI-powered Full Stack Applications`
 
-**Open to Collaboration:** `__________`
+**Open to Collaboration:** `React • Django • AI Projects`
 
-**Ask me about:** `__________`
+**Ask me about:** `React, Django, REST APIs, LLM Integration`
 
-**Fun Fact:** `__________`
+**Fun Fact:** `I enjoy turning complex ideas into simple, interactive web applications.`
 
 </td>
 </tr>
@@ -311,7 +314,7 @@ I love learning modern technologies, collaborating with teams, and continuously 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="26"/> Quote
 
 > *"First, solve the problem. Then, write the code."*
-> — **John Johnson**
+> — **Linus Torvalds**
 
 </div>
 
