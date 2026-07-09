@@ -182,7 +182,7 @@ I love learning modern technologies, collaborating with teams, and continuously 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalpanaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KalpanaJayapaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 
 <br/>
@@ -208,10 +208,6 @@ I love learning modern technologies, collaborating with teams, and continuously 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<br/>
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
 
