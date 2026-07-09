@@ -1,19 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Kalpana%20J&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%20Integrations&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Kalpana%20J&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Developer&descAlignY=56&descSize=20" />
 
 <br/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=8A6CFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kalpana+J;Software+Developer;Full+Stack+Developer;Building+AI+Powered+Applications;React+%E2%80%A2+Django+%E2%80%A2+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=800&color=8A6CFF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;React+Developer;Django+Developer;AI+Integration+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <p>
-  <img src="https://img.shields.io/badge/-Full--Stack%20Developer-0f0c29?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI%20Powered%20Apps-302b63?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Turning%20Ideas%20into%20Interactive%20Realities-24243e?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Building%20AI--Powered%20Web%20Applications-0f0c29?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React%20%E2%80%A2%20Django%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20LLM%20Integration-302b63?style=for-the-badge&logoColor=white" />
 </p>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/optimized/pipeline.gif" width="90%" />
@@ -32,50 +31,13 @@
 <tr>
 <td>
 
-I'm a **Full‑Stack Developer** who enjoys building scalable web applications, AI‑powered products, REST APIs, and modern frontend experiences. I care about clean architecture, thoughtful UX, and code that scales gracefully from prototype to production.
+**Kalpana J** &nbsp; · &nbsp; *She / Her*
 
-I love solving real‑world problems through software — turning ambiguous ideas into interactive, reliable products, and continuously exploring how AI can make applications smarter and more intuitive.
+**Full-stack Developer | Building AI-powered Applications | React + Django | REST API Integration | Turning Ideas into Interactive Realities**
 
-</td>
-</tr>
-</table>
+Passionate about transforming ideas into immersive web applications. I'm a Full-stack Software Developer who enjoys building scalable web applications, creating intuitive user experiences, integrating AI capabilities, and solving real-world problems through technology.
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> Current Status
-
-<div align="center">
-
-| | |
-|---|---|
-| **Current Role** | `__________` |
-| **Company** | `__________` |
-| **Working On** | `__________` |
-| **Location** | `__________` |
-| **Open To** | `__________` |
-| **Experience** | `__________` |
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="30"/> Professional Summary
-
-<table>
-<tr>
-<td>
-
-Full‑stack developer specializing in building **AI‑powered applications** using **React** and **Django**, with strong expertise in **REST API integration** and a philosophy centered on turning ideas into interactive realities.
-
-Experience delivering production applications at **Malaris Software Solutions**, with a consistent focus on building immersive, performant web experiences. Known for being a collaborative team player, a methodical problem solver, and a continuous learner who stays current with evolving frontend, backend, and AI technologies.
+I love learning modern technologies, collaborating with teams, and continuously improving my development skills.
 
 </td>
 </tr>
@@ -106,8 +68,8 @@ Experience delivering production applications at **Malaris Software Solutions**,
 **Backend**
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel%20(PHP)-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 <br/><br/>
 
@@ -118,19 +80,13 @@ Experience delivering production applications at **Malaris Software Solutions**,
 
 <br/><br/>
 
-**API**
+**API & Integration**
 
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-<br/><br/>
-
-**AI**
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformer%20Architecture-1a1a2e?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM%20Integration-24243e?style=for-the-badge&logoColor=white" />
 
 <br/><br/>
@@ -139,8 +95,16 @@ Experience delivering production applications at **Malaris Software Solutions**,
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<br/><br/>
+
+**Additional Skills**
+
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/Canvas%20API-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformer%20Architecture-1a1a2e?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Prompt%20Engineering-24243e?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -150,58 +114,24 @@ Experience delivering production applications at **Malaris Software Solutions**,
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30"/> What I Do
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="30"/> AI & LLM Expertise
 
-<table width="100%">
+<table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Frontend Development
-- Responsive UI
-- Modern React Apps
-- Component-driven architecture
-
-</td>
-<td width="33%" valign="top">
-
-### Backend Development
-- Django REST APIs
-- Authentication systems
-- Database design
+- OpenAI APIs
+- Groq APIs
+- Gemini APIs
+- LLM Integration
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### AI Integration
-- OpenAI, Groq, Gemini
-- Prompt engineering
-- LLM-powered features
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### API Integration
-- REST APIs
-- Third-party APIs
-- LLM APIs
-
-</td>
-<td width="33%" valign="top">
-
-### Deployment Ready Apps
-- Production-grade builds
-- Scalable architecture
-- Performance-focused delivery
-
-</td>
-<td width="33%" valign="top">
-
-### Continuous Learning
-- Staying current with tech
-- Exploring new frameworks
-- Iterating on best practices
+- API Key Management
+- Prompt Engineering
+- Transformer Basics
+- AI-powered Web Applications
 
 </td>
 </tr>
@@ -213,138 +143,39 @@ Experience delivering production applications at **Malaris Software Solutions**,
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Framed%20Picture.png" width="30"/> Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### Project 1
-<img src="https://via.placeholder.com/500x260/0f0c29/ffffff?text=Project+Preview" width="100%"/>
-
-**Description:** `__________`
-
-**Tech Stack:** `__________`
-
-[`GitHub`](#) &nbsp;|&nbsp; [`Live Demo`](#)
-
-</td>
-<td width="50%">
-
-### Project 2
-<img src="https://via.placeholder.com/500x260/0f0c29/ffffff?text=Project+Preview" width="100%"/>
-
-**Description:** `__________`
-
-**Tech Stack:** `__________`
-
-[`GitHub`](#) &nbsp;|&nbsp; [`Live Demo`](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Project 3
-<img src="https://via.placeholder.com/500x260/0f0c29/ffffff?text=Project+Preview" width="100%"/>
-
-**Description:** `__________`
-
-**Tech Stack:** `__________`
-
-[`GitHub`](#) &nbsp;|&nbsp; [`Live Demo`](#)
-
-</td>
-<td width="50%">
-
-### Project 4
-<img src="https://via.placeholder.com/500x260/0f0c29/ffffff?text=Project+Preview" width="100%"/>
-
-**Description:** `__________`
-
-**Tech Stack:** `__________`
-
-[`GitHub`](#) &nbsp;|&nbsp; [`Live Demo`](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Project 5
-<img src="https://via.placeholder.com/500x260/0f0c29/ffffff?text=Project+Preview" width="100%"/>
-
-**Description:** `__________`
-
-**Tech Stack:** `__________`
-
-[`GitHub`](#) &nbsp;|&nbsp; [`Live Demo`](#)
-
-</td>
-<td width="50%">
-
-### Project 6
-<img src="https://via.placeholder.com/500x260/0f0c29/ffffff?text=Project+Preview" width="100%"/>
-
-**Description:** `__________`
-
-**Tech Stack:** `__________`
-
-[`GitHub`](#) &nbsp;|&nbsp; [`Live Demo`](#)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="30"/> Experience
-
-<details open>
-<summary><b>Malaris Software Solutions</b></summary>
-<br/>
-
-| | |
-|---|---|
-| **Role** | `__________` |
-| **Duration** | `__________` |
-| **Description** | `__________` |
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>Company Name</b></summary>
-<br/>
-
-| | |
-|---|---|
-| **Role** | `__________` |
-| **Duration** | `__________` |
-| **Description** | `__________` |
-
-</details>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30"/> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> Professional Skills
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+**Frontend** &nbsp;
+![](https://progress-bar.dev/90/?width=250&color=8a6cff)
+
+**Backend** &nbsp;
+![](https://progress-bar.dev/85/?width=250&color=8a6cff)
+
+**React** &nbsp;
+![](https://progress-bar.dev/90/?width=250&color=8a6cff)
+
+**Django** &nbsp;
+![](https://progress-bar.dev/85/?width=250&color=8a6cff)
+
+**REST APIs** &nbsp;
+![](https://progress-bar.dev/90/?width=250&color=8a6cff)
+
+**Database Design** &nbsp;
+![](https://progress-bar.dev/80/?width=250&color=8a6cff)
+
+**AI Integration** &nbsp;
+![](https://progress-bar.dev/85/?width=250&color=8a6cff)
+
+**Problem Solving** &nbsp;
+![](https://progress-bar.dev/90/?width=250&color=8a6cff)
+
+**Git** &nbsp;
+![](https://progress-bar.dev/85/?width=250&color=8a6cff)
+
+**GitHub** &nbsp;
+![](https://progress-bar.dev/85/?width=250&color=8a6cff)
 
 </div>
 
@@ -371,9 +202,103 @@ Experience delivering production applications at **Malaris Software Solutions**,
 
 <br/><br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&margin-w=10&row=1" width="90%" />
+
+<br/><br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=8a6cff&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=8a6cff&labelColor=1a1a2e)
 
 </div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Framed%20Picture.png" width="30"/> Featured Projects
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30"/> Portfolio
+
+<div align="center">
+
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio%20Website-24243e?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+*https://your-portfolio-link.com*
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30"/> Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kalpana-j-1370912bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:__________"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30"/> Coding Profiles
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30"/> Fun Section
+
+<table>
+<tr>
+<td>
+
+**Currently Learning:** `__________`
+
+**Building:** `__________`
+
+**Open to Collaboration:** `__________`
+
+**Ask me about:** `__________`
+
+**Fun Fact:** `__________`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -392,8 +317,12 @@ Experience delivering production applications at **Malaris Software Solutions**,
 
 <br/>
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" />
 
 <div align="center">
-<sub>Thanks for visiting.</sub>
+
+**Thanks for visiting my profile.**
+<br/>
+*Let's build something amazing together.*
+
 </div>
