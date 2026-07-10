@@ -1,0 +1,88 @@
+<svg viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .card {
+        font-family: 'Segoe UI', Arial, sans-serif;
+      }
+      .label {
+        font-size: 13px;
+        fill: #b3b3d1;
+        text-anchor: middle;
+      }
+      .glow {
+        filter: drop-shadow(0 0 6px rgba(138,108,255,0.55));
+      }
+      .bubble {
+        fill: url(#grad);
+        stroke: #8A6CFF;
+        stroke-width: 1.5;
+        opacity: 0.9;
+      }
+    </style>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#24243e"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#0f0c29"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon 1: OpenAI -->
+  <g class="card glow">
+    <circle cx="90" cy="70" r="42" class="bubble"/>
+    <text x="90" y="82" font-size="34" text-anchor="middle">🤖</text>
+    <text x="90" y="145" class="label">OpenAI API</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; 0,-14; 0,0" keyTimes="0;0.5;1"
+      dur="3.2s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Icon 2: Groq -->
+  <g class="card glow" transform="translate(140,0)">
+    <circle cx="90" cy="70" r="42" class="bubble"/>
+    <text x="90" y="82" font-size="34" text-anchor="middle">⚡</text>
+    <text x="90" y="145" class="label">Groq API</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="140,0; 140,-18; 140,0" keyTimes="0;0.5;1"
+      dur="2.6s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Icon 3: Gemini -->
+  <g class="card glow" transform="translate(280,0)">
+    <circle cx="90" cy="70" r="42" class="bubble"/>
+    <text x="90" y="82" font-size="34" text-anchor="middle">✨</text>
+    <text x="90" y="145" class="label">Gemini API</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="280,0; 280,-12; 280,0" keyTimes="0;0.5;1"
+      dur="3.6s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Icon 4: LangChain -->
+  <g class="card glow" transform="translate(420,0)">
+    <circle cx="90" cy="70" r="42" class="bubble"/>
+    <text x="90" y="82" font-size="34" text-anchor="middle">🔗</text>
+    <text x="90" y="145" class="label">LangChain</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="420,0; 420,-16; 420,0" keyTimes="0;0.5;1"
+      dur="2.9s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Icon 5: RAG -->
+  <g class="card glow" transform="translate(560,0)">
+    <circle cx="90" cy="70" r="42" class="bubble"/>
+    <text x="90" y="82" font-size="34" text-anchor="middle">📚</text>
+    <text x="90" y="145" class="label">RAG Pipelines</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="560,0; 560,-13; 560,0" keyTimes="0;0.5;1"
+      dur="3.4s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Icon 6: AI Agents -->
+  <g class="card glow" transform="translate(700,0)">
+    <circle cx="90" cy="70" r="42" class="bubble"/>
+    <text x="90" y="82" font-size="34" text-anchor="middle">🧠</text>
+    <text x="90" y="145" class="label">AI Agents</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="700,0; 700,-17; 700,0" keyTimes="0;0.5;1"
+      dur="2.7s" repeatCount="indefinite"/>
+  </g>
+</svg>
