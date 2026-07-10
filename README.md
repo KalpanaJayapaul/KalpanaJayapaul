@@ -112,25 +112,32 @@ I love learning modern technologies, collaborating with teams, and continuously 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="30"/> AI & LLM Expertise
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/KalpanaJayapaul/KalpanaJayapaul/main/assets/ai-neon-holographic.svg" width="100%" />
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-- OpenAI APIs
-- Groq APIs
-- Gemini APIs
-- LLM Integration
+**Model & API Integration**
+- OpenAI, Groq & Gemini API integration
+- Multi-model orchestration & fallback handling
+- Secure API key & rate-limit management
+- Streaming responses & function calling
 
 </td>
 <td width="50%" valign="top">
 
-- API Key Management
-- Prompt Engineering
-- Transformer Basics
-- AI-powered Web Applications
+**Applied AI Engineering**
+- Retrieval-Augmented Generation (RAG)
+- LangChain-based agent workflows
+- Prompt engineering & context design
+- Transformer architecture fundamentals
 
 </td>
 </tr>
