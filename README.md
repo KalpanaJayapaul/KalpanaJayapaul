@@ -115,7 +115,7 @@ I love learning modern technologies, collaborating with teams, and continuously 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="30"/> AI & LLM Expertise
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/KalpanaJayapaul/KalpanaJayapaul/main/assets/ai-neon-holographic.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/KalpanaJayapaul/KalpanaJayapaul/main/assets/ai-llm-floating-icons.svg.svg" width="100%" />
 </div>
 
 <br/>
