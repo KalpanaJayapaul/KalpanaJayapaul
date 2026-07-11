@@ -204,7 +204,8 @@ I love learning modern technologies, collaborating with teams, and continuously 
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KalpanaJayapaul&theme=darkhub&no-frame=true&margin-w=10&row=1" width="90%" />
+<!--<img src="https://github-profile-trophy.vercel.app/?username=KalpanaJayapaul&theme=darkhub&no-frame=true&margin-w=10&row=1" width="90%" />-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalpanaJayapaul&theme=tokyonight" width="95%" />
 
 <br/><br/>
 
