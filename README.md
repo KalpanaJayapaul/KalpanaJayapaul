@@ -188,10 +188,12 @@ I love learning modern technologies, collaborating with teams, and continuously 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GitHub Stats
 
 <div align="center">
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=KalpanaJayapaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true" width="45%" />-->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KalpanaJayapaul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=KalpanaJayapaul&theme=tokyonight&hide_border=true" width="70%" />
