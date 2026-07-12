@@ -260,7 +260,7 @@ I love learning modern technologies, collaborating with teams, and continuously 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
-
+<!--
 ## <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPplnCzc5Dh9-1e8GjxoW_DvZggd1jtBIL8FwpUeZeTA&s=10)" width="30"/> Coding Profiles
 
 <div align="center">
@@ -276,7 +276,7 @@ I love learning modern technologies, collaborating with teams, and continuously 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
+-->
 <br/>
 
 ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBfSwwvyRnWo6VrTsnncFwdCwQ76SQulzySiUzhWatQ&s=10" width="30"/> Fun Section
