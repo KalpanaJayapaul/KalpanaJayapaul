@@ -230,9 +230,9 @@ I love learning modern technologies, collaborating with teams, and continuously 
 </a>
 
 <br/><br/>
-
+<!--
 *https://your-portfolio-link.com*
-
+-->
 </div>
 
 <br/>
