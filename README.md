@@ -1,53 +1,47 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=KALPANA%20J&fontSize=70&fontColor=8A6CFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Systems%20Developer&descAlignY=58&descSize=22&descColor=E0D9FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,15:4C1D95,40:6D28D9,65:8A6CFF,85:4C1D95,100:2E1065&height=280&section=header&text=KALPANA%20J&fontSize=64&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20%2B%20AI%20Systems%20Developer&descAlignY=62&descSize=20&descColor=E9E1FF"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=B8A9FF&center=true&vCenter=true&width=750&lines=const+dev+%3D+%7B+role%3A+%27Full+Stack+Engineer%27+%7D%3B;building+with+React+%2B+Django;wiring+LLMs+into+production+apps;shipping+ideas+as+interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=B8A9FF&center=true&vCenter=true&width=650&lines=React+%2B+Django+%2B+LLM+Orchestration;Shipping+interfaces%2C+not+demos;Currently+compiling..." alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/●_AVAILABLE_FOR_WORK-0D0B1F?style=for-the-badge&labelColor=05040D&color=8A6CFF"/>
+<img src="https://img.shields.io/badge/BUILD-PASSING-0D0B1F?style=for-the-badge&labelColor=05040D&color=6C63FF"/>
+<img src="https://img.shields.io/badge/UPTIME-99.9%25-0D0B1F?style=for-the-badge&labelColor=05040D&color=5B4BFF"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/status-online-8A6CFF?style=for-the-badge&labelColor=0D0B1F"/>
-<img src="https://img.shields.io/badge/stack-react_·_django_·_llm-6C63FF?style=for-the-badge&labelColor=0D0B1F"/>
-<img src="https://img.shields.io/badge/based_in-remote_first-5B4BFF?style=for-the-badge&labelColor=0D0B1F"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-## `01` — Identity
-
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="100%">
 
-**Kalpana J** · *She/Her* · Full-Stack Developer
+```javascript
+class Developer {
+  constructor() {
+    this.name       = "Kalpana J";
+    this.role       = "Full-Stack + AI Systems Developer";
+    this.stack      = ["React", "Django", "PostgreSQL"];
+    this.aiLayer    = ["OpenAI", "Groq", "Gemini", "LangChain"];
+    this.philosophy = "Interfaces should feel obvious. Systems should feel invisible.";
+  }
 
-I build applications where the frontend, backend, and AI layer are designed to work as one system — not bolted together. My focus is React interfaces backed by Django services, wired to LLMs (OpenAI, Groq, Gemini) for real product features rather than novelty demos.
+  currentFocus() {
+    return ["Agentic workflows", "RAG pipelines", "Real-time UI state"];
+  }
+}
 
-I care about clean architecture, predictable APIs, and interfaces that feel instant. Currently deep in agentic workflows and RAG pipelines — figuring out how retrieval, context, and UI state should actually talk to each other.
-
-</td>
-<td width="35%" valign="top" align="center">
-
-```
-whoami
-> kalpana.j
-
-role
-> full-stack + AI
-
-focus
-> react · django
-> llm integration
-
-uptime
-> always building
+const kalpana = new Developer();
+console.log(kalpana.philosophy);
+// → "Interfaces should feel obvious. Systems should feel invisible."
 ```
 
 </td>
@@ -60,85 +54,67 @@ uptime
 
 <br/>
 
-## `02` — Stack
-
 <div align="center">
 
-**Interface Layer**
-
-<img src="https://img.shields.io/badge/React-0D0B1F?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-0D0B1F?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-0D0B1F?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0D0B1F?style=for-the-badge&logo=css3&logoColor=2965F1"/>
-<img src="https://img.shields.io/badge/Material_UI-0D0B1F?style=for-the-badge&logo=mui&logoColor=007FFF"/>
-<img src="https://img.shields.io/badge/Angular-0D0B1F?style=for-the-badge&logo=angular&logoColor=DD0031"/>
-
-**Service Layer**
-
-<img src="https://img.shields.io/badge/Django-0D0B1F?style=for-the-badge&logo=django&logoColor=44B78B"/>
-<img src="https://img.shields.io/badge/Laravel-0D0B1F?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-<img src="https://img.shields.io/badge/REST_APIs-0D0B1F?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
-<img src="https://img.shields.io/badge/WebSockets-0D0B1F?style=for-the-badge&logo=socketdotio&logoColor=fff"/>
-
-**Data Layer**
-
-<img src="https://img.shields.io/badge/PostgreSQL-0D0B1F?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MySQL-0D0B1F?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-
-**Intelligence Layer**
-
-<img src="https://img.shields.io/badge/OpenAI_API-0D0B1F?style=for-the-badge&logo=openai&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Groq_API-0D0B1F?style=for-the-badge&logoColor=F55036"/>
-<img src="https://img.shields.io/badge/Gemini_API-0D0B1F?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
-<img src="https://img.shields.io/badge/LangChain-0D0B1F?style=for-the-badge&logoColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-0D0B1F?style=for-the-badge&logoColor=8A6CFF"/>
-
-**Tooling**
-
-<img src="https://img.shields.io/badge/Git-0D0B1F?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0D0B1F?style=for-the-badge&logo=github&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Postman-0D0B1F?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+## ⟡ SYSTEM ARCHITECTURE
 
 </div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-## `03` — Capability Map
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Frontend-95%25-8A6CFF?style=for-the-badge&labelColor=0D0B1F"/>
-<img src="https://img.shields.io/badge/Backend-90%25-6C63FF?style=for-the-badge&labelColor=0D0B1F"/>
-<img src="https://img.shields.io/badge/AI_Integration-88%25-5B4BFF?style=for-the-badge&labelColor=0D0B1F"/>
-<img src="https://img.shields.io/badge/System_Design-85%25-8A6CFF?style=for-the-badge&labelColor=0D0B1F"/>
-<img src="https://img.shields.io/badge/Git_Workflow-92%25-6C63FF?style=for-the-badge&labelColor=0D0B1F"/>
-
-</div>
-
-<br/>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### Model Integration
-Multi-provider orchestration across OpenAI, Groq, and Gemini, with fallback handling, streaming responses, and function calling wired into product flows — not sandbox scripts.
+### ▸ Interface Layer
+
+<img src="https://img.shields.io/badge/React-05040D?style=flat-square&logo=react&logoColor=61DAFB&labelColor=05040D"/>
+<img src="https://img.shields.io/badge/JavaScript-05040D?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Angular-05040D?style=flat-square&logo=angular&logoColor=DD0031"/>
+<img src="https://img.shields.io/badge/Material_UI-05040D?style=flat-square&logo=mui&logoColor=007FFF"/>
+<img src="https://img.shields.io/badge/HTML5-05040D?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-05040D?style=flat-square&logo=css3&logoColor=2965F1"/>
+
+Component-driven UIs engineered for state predictability and sub-100ms perceived latency.
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### Applied AI Engineering
-RAG pipelines, LangChain agent workflows, and prompt/context design grounded in transformer fundamentals — built to be debuggable, not magic.
+### ▸ Service Layer
+
+<img src="https://img.shields.io/badge/Django-05040D?style=flat-square&logo=django&logoColor=44B78B"/>
+<img src="https://img.shields.io/badge/Laravel-05040D?style=flat-square&logo=laravel&logoColor=FF2D20"/>
+<img src="https://img.shields.io/badge/REST_APIs-05040D?style=flat-square&logo=fastapi&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/WebSockets-05040D?style=flat-square&logo=socketdotio&logoColor=fff"/>
+<img src="https://img.shields.io/badge/PostgreSQL-05040D?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MySQL-05040D?style=flat-square&logo=mysql&logoColor=4479A1"/>
+
+Contract-first API design with real-time channels for state that can't wait on a refresh.
 
 </td>
-<td width="33%" valign="top" align="center">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Systems Thinking
-Clean architecture, REST API design, and real-time WebSocket layers that keep the frontend, backend, and AI services in sync under load.
+### ▸ Intelligence Layer
+
+<img src="https://img.shields.io/badge/OpenAI-05040D?style=flat-square&logo=openai&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Groq-05040D?style=flat-square&logoColor=F55036"/>
+<img src="https://img.shields.io/badge/Gemini-05040D?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
+<img src="https://img.shields.io/badge/LangChain-05040D?style=flat-square&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/RAG-05040D?style=flat-square&logoColor=8A6CFF"/>
+
+Multi-provider model orchestration — fallback routing, streaming, function calling, wired into real product paths.
+
+</td>
+<td width="50%" valign="top">
+
+### ▸ Tooling
+
+<img src="https://img.shields.io/badge/Git-05040D?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-05040D?style=flat-square&logo=github&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Postman-05040D?style=flat-square&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/VS_Code-05040D?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+
+Version-controlled, tested, documented — code built to survive contact with a second engineer.
 
 </td>
 </tr>
@@ -150,20 +126,41 @@ Clean architecture, REST API design, and real-time WebSocket layers that keep th
 
 <br/>
 
-## `04` — Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KalpanaJayapaul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0B1F&title_color=8A6CFF&icon_color=6C63FF&text_color=E0D9FF" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B1F&title_color=8A6CFF&text_color=E0D9FF" width="45%" />
+## ⟡ PROFICIENCY INDEX
+
+<img src="https://progress-bar.xyz/95/?title=React&width=280&color=8a6cff&suffix=%25&titleColor=E0D9FF&barBgColor=1A1533"/>
+<img src="https://progress-bar.xyz/90/?title=Django&width=280&color=6c63ff&suffix=%25&titleColor=E0D9FF&barBgColor=1A1533"/>
+
+<img src="https://progress-bar.xyz/88/?title=LLM+Integration&width=280&color=5b4bff&suffix=%25&titleColor=E0D9FF&barBgColor=1A1533"/>
+<img src="https://progress-bar.xyz/92/?title=REST+API+Design&width=280&color=8a6cff&suffix=%25&titleColor=E0D9FF&barBgColor=1A1533"/>
+
+<img src="https://progress-bar.xyz/85/?title=System+Design&width=280&color=6c63ff&suffix=%25&titleColor=E0D9FF&barBgColor=1A1533"/>
+<img src="https://progress-bar.xyz/93/?title=Git+Workflow&width=280&color=5b4bff&suffix=%25&titleColor=E0D9FF&barBgColor=1A1533"/>
+
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KalpanaJayapaul&theme=tokyonight&hide_border=true&background=0D0B1F&ring=8A6CFF&fire=6C63FF&currStreakLabel=8A6CFF" width="70%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br/>
+
+<div align="center">
+
+## ⟡ TELEMETRY
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KalpanaJayapaul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=05040D&title_color=8A6CFF&icon_color=6C63FF&text_color=E0D9FF&ring_color=8A6CFF" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=05040D&title_color=8A6CFF&text_color=E0D9FF" width="45%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=KalpanaJayapaul&theme=tokyonight&hide_border=true&background=05040D&ring=8A6CFF&fire=6C63FF&currStreakLabel=8A6CFF&sideLabels=E0D9FF&currStreakNum=E0D9FF&sideNums=E0D9FF" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalpanaJayapaul&theme=tokyo-night&hide_border=true&bg_color=0D0B1F&color=8A6CFF&line=6C63FF&point=E0D9FF" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalpanaJayapaul&theme=tokyo-night&hide_border=true&bg_color=05040D&color=8A6CFF&line=6C63FF&point=E0D9FF&area=true&area_color=6C63FF" width="90%" />
 
 <br/><br/>
 
@@ -171,8 +168,8 @@ Clean architecture, REST API design, and real-time WebSocket layers that keep th
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KalpanaJayapaul&color=8a6cff&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/KalpanaJayapaul?style=for-the-badge&color=8a6cff&labelColor=0D0B1F)
+![Profile Views](https://komarev.com/ghpvc/?username=KalpanaJayapaul&color=8A6CFF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=05040D)
+![Followers](https://img.shields.io/github/followers/KalpanaJayapaul?style=for-the-badge&color=8A6CFF&labelColor=05040D)
 
 </div>
 
@@ -182,23 +179,28 @@ Clean architecture, REST API design, and real-time WebSocket layers that keep th
 
 <br/>
 
-## `05` — Now
+<div align="center">
+
+## ⟡ PROCESS LOG
+
+</div>
 
 <table width="100%">
-<tr>
-<td>
+<tr><td>
 
 ```yaml
-learning:    Advanced Django · AI Agents · LangChain
-building:    AI-native full-stack applications
-open_to:     React · Django · AI collaborations
-ask_me:      React, Django, REST APIs, LLM integration
-note:        "I like turning complex ideas into interfaces
-              that feel obvious once they exist."
+status:
+  learning:  [Advanced Django, AI Agents, LangChain]
+  building:  AI-native full-stack applications
+  open_to:   React · Django · AI collaborations
+  ask_me:    React, Django, REST APIs, LLM integration
+
+log:
+  - "Interfaces should feel obvious once they exist."
+  - "The best AI feature is the one users don't notice is AI."
 ```
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <br/>
@@ -207,30 +209,25 @@ note:        "I like turning complex ideas into interfaces
 
 <br/>
 
-## `06` — Elsewhere
-
 <div align="center">
 
+## ⟡ CONNECT
+
 <a href="https://www.linkedin.com/in/kalpana-j-1370912bb">
-<img src="https://img.shields.io/badge/LinkedIn-0D0B1F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-05040D?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 <a href="https://github.com/KalpanaJayapaul">
-<img src="https://img.shields.io/badge/GitHub-0D0B1F?style=for-the-badge&logo=github&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GITHUB-05040D?style=for-the-badge&logo=github&logoColor=fff"/>
 </a>
 
-</div>
+<br/><br/>
+
+> *"First, solve the problem. Then, write the code."*
+> **— Linus Torvalds**
 
 <br/>
 
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — **Linus Torvalds**
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer"/>
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:2E1065&height=150&section=footer"/>
 
 **Thanks for stopping by — let's build something worth shipping.**
 
