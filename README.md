@@ -1,21 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A6CFF&height=230&section=header&text=Kalpana%20J&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=React%20%7C%20Django%20%7C%20AI%20Developer&descAlignY=56&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=KALPANA%20J&fontSize=70&fontColor=8A6CFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Systems%20Developer&descAlignY=58&descSize=22&descColor=E0D9FF"/>
 
 <br/>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=800&color=8A6CFF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;React+Developer;Django+Developer;AI+Integration+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=B8A9FF&center=true&vCenter=true&width=750&lines=const+dev+%3D+%7B+role%3A+%27Full+Stack+Engineer%27+%7D%3B;building+with+React+%2B+Django;wiring+LLMs+into+production+apps;shipping+ideas+as+interfaces" alt="Typing SVG" />
 
 <br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/-Building%20AI--Powered%20Web%20Applications-0f0c29?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React%20%E2%80%A2%20Django%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20LLM%20Integration-302b63?style=for-the-badge&logoColor=white" />
-</p>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/optimized/pipeline.gif" width="90%" />
+<img src="https://img.shields.io/badge/status-online-8A6CFF?style=for-the-badge&labelColor=0D0B1F"/>
+<img src="https://img.shields.io/badge/stack-react_·_django_·_llm-6C63FF?style=for-the-badge&labelColor=0D0B1F"/>
+<img src="https://img.shields.io/badge/based_in-remote_first-5B4BFF?style=for-the-badge&labelColor=0D0B1F"/>
 
 </div>
 
@@ -25,18 +20,35 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30"/> About Me
-<table>
+## `01` — Identity
+
+<table width="100%">
 <tr>
-<td>
+<td width="65%" valign="top">
 
-**Kalpana J** &nbsp; · &nbsp; *She / Her*
+**Kalpana J** · *She/Her* · Full-Stack Developer
 
-**Full-stack Developer | Building AI-powered Applications | React + Django | REST API Integration | Turning Ideas into Interactive Realities**
+I build applications where the frontend, backend, and AI layer are designed to work as one system — not bolted together. My focus is React interfaces backed by Django services, wired to LLMs (OpenAI, Groq, Gemini) for real product features rather than novelty demos.
 
-Passionate about transforming ideas into immersive web applications. I'm a Full-stack Software Developer who enjoys building scalable web applications, creating intuitive user experiences, integrating AI capabilities, and solving real-world problems through technology.
+I care about clean architecture, predictable APIs, and interfaces that feel instant. Currently deep in agentic workflows and RAG pipelines — figuring out how retrieval, context, and UI state should actually talk to each other.
 
-I love learning modern technologies, collaborating with teams, and continuously improving my development skills.
+</td>
+<td width="35%" valign="top" align="center">
+
+```
+whoami
+> kalpana.j
+
+role
+> full-stack + AI
+
+focus
+> react · django
+> llm integration
+
+uptime
+> always building
+```
 
 </td>
 </tr>
@@ -48,62 +60,44 @@ I love learning modern technologies, collaborating with teams, and continuously 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Tech Stack
+## `02` — Stack
 
 <div align="center">
 
-**Frontend**
+**Interface Layer**
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Clarity%20UI-16A085?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0D0B1F?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0B1F?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-0D0B1F?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D0B1F?style=for-the-badge&logo=css3&logoColor=2965F1"/>
+<img src="https://img.shields.io/badge/Material_UI-0D0B1F?style=for-the-badge&logo=mui&logoColor=007FFF"/>
+<img src="https://img.shields.io/badge/Angular-0D0B1F?style=for-the-badge&logo=angular&logoColor=DD0031"/>
 
-<br/><br/>
+**Service Layer**
 
-**Backend**
+<img src="https://img.shields.io/badge/Django-0D0B1F?style=for-the-badge&logo=django&logoColor=44B78B"/>
+<img src="https://img.shields.io/badge/Laravel-0D0B1F?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+<img src="https://img.shields.io/badge/REST_APIs-0D0B1F?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/WebSockets-0D0B1F?style=for-the-badge&logo=socketdotio&logoColor=fff"/>
 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel%20(PHP)-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+**Data Layer**
 
-<br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D0B1F?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MySQL-0D0B1F?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 
-**Database**
+**Intelligence Layer**
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-0D0B1F?style=for-the-badge&logo=openai&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Groq_API-0D0B1F?style=for-the-badge&logoColor=F55036"/>
+<img src="https://img.shields.io/badge/Gemini_API-0D0B1F?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
+<img src="https://img.shields.io/badge/LangChain-0D0B1F?style=for-the-badge&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-0D0B1F?style=for-the-badge&logoColor=8A6CFF"/>
 
-<br/><br/>
+**Tooling**
 
-**API & Integration**
-
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20Integration-24243e?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-<br/><br/>
-
-**Additional Skills**
-
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Canvas%20API-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformer%20Architecture-1a1a2e?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Prompt%20Engineering-24243e?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-0D0B1F?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0D0B1F?style=for-the-badge&logo=github&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Postman-0D0B1F?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 
 </div>
 
@@ -112,32 +106,39 @@ I love learning modern technologies, collaborating with teams, and continuously 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="30"/> AI & LLM Expertise
+
+## `03` — Capability Map
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/KalpanaJayapaul/KalpanaJayapaul/main/assets/ai-llm-floating-icons.svg.svg" width="100%" />
+
+<img src="https://img.shields.io/badge/Frontend-95%25-8A6CFF?style=for-the-badge&labelColor=0D0B1F"/>
+<img src="https://img.shields.io/badge/Backend-90%25-6C63FF?style=for-the-badge&labelColor=0D0B1F"/>
+<img src="https://img.shields.io/badge/AI_Integration-88%25-5B4BFF?style=for-the-badge&labelColor=0D0B1F"/>
+<img src="https://img.shields.io/badge/System_Design-85%25-8A6CFF?style=for-the-badge&labelColor=0D0B1F"/>
+<img src="https://img.shields.io/badge/Git_Workflow-92%25-6C63FF?style=for-the-badge&labelColor=0D0B1F"/>
+
 </div>
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**Model & API Integration**
-- OpenAI, Groq & Gemini API integration
-- Multi-model orchestration & fallback handling
-- Secure API key & rate-limit management
-- Streaming responses & function calling
+### Model Integration
+Multi-provider orchestration across OpenAI, Groq, and Gemini, with fallback handling, streaming responses, and function calling wired into product flows — not sandbox scripts.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**Applied AI Engineering**
-- Retrieval-Augmented Generation (RAG)
-- LangChain-based agent workflows
-- Prompt engineering & context design
-- Transformer architecture fundamentals
+### Applied AI Engineering
+RAG pipelines, LangChain agent workflows, and prompt/context design grounded in transformer fundamentals — built to be debuggable, not magic.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### Systems Thinking
+Clean architecture, REST API design, and real-time WebSocket layers that keep the frontend, backend, and AI services in sync under load.
 
 </td>
 </tr>
@@ -148,110 +149,30 @@ I love learning modern technologies, collaborating with teams, and continuously 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
-## 🚀 Professional Skills
+
+## `04` — Activity
 
 <div align="center">
 
-| 💻 Development | 🤖 AI Engineering | ⚡ Engineering |
-|:--------------:|:----------------:|:-------------:|
-| ⚛️ React | 🧠 Prompt Engineering | 🏗 Clean Architecture |
-| 🟨 JavaScript | 🤖 OpenAI API | 🔗 REST APIs |
-| 🌐 HTML & CSS | ⚡ Groq API | 🔥 WebSockets |
-| 🟩 Django | ✨ Gemini API | 🛠 Git & GitHub |
-| 🟪 Laravel | 🔄 LLM Integration | 🗄 PostgreSQL |
-| 🎨 Material UI | ⚙ Transformer Basics | 📡 API Design |
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Frontend-95%25-8A6CFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backend-90%25-6C63FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-88%25-5B4BFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem_Solving-95%25-8A6CFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Git_&_GitHub-92%25-6C63FF?style=for-the-badge"/>
-
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KalpanaJayapaul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0B1F&title_color=8A6CFF&icon_color=6C63FF&text_color=E0D9FF" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B1F&title_color=8A6CFF&text_color=E0D9FF" width="45%" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GitHub Stats
-
-<div align="center">
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=KalpanaJayapaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true" width="45%" />-->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KalpanaJayapaul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=KalpanaJayapaul&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=KalpanaJayapaul&theme=tokyonight&hide_border=true&background=0D0B1F&ring=8A6CFF&fire=6C63FF&currStreakLabel=8A6CFF" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalpanaJayapaul&theme=tokyo-night&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalpanaJayapaul&theme=tokyo-night&hide_border=true&bg_color=0D0B1F&color=8A6CFF&line=6C63FF&point=E0D9FF" width="90%" />
 
 <br/><br/>
 
-<!--<img src="https://github-profile-trophy.vercel.app/?username=KalpanaJayapaul&theme=darkhub&no-frame=true&margin-w=10&row=1" width="90%" />-->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalpanaJayapaul&theme=tokyonight" width="95%" />
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KalpanaJayapaul&color=8a6cff&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/KalpanaJayapaul?style=for-the-badge&color=8a6cff&labelColor=1a1a2e)
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30"/> Portfolio
-
-<div align="center">
-
-<a href="https://github.com/KalpanaJayapaul">
-  <img src="https://img.shields.io/badge/Portfolio%20Website-24243e?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br/><br/>
-<!--
-*https://your-portfolio-link.com*
--->
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30"/> Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kalpana-j-1370912bb">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/KalpanaJayapaul">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+![Followers](https://img.shields.io/github/followers/KalpanaJayapaul?style=for-the-badge&color=8a6cff&labelColor=0D0B1F)
 
 </div>
 
@@ -260,44 +181,21 @@ I love learning modern technologies, collaborating with teams, and continuously 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
-<!--
-## <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPplnCzc5Dh9-1e8GjxoW_DvZggd1jtBIL8FwpUeZeTA&s=10)" width="30"/> Coding Profiles
 
-<div align="center">
+## `05` — Now
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
--->
-<br/>
-<!--
-## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBfSwwvyRnWo6VrTsnncFwdCwQ76SQulzySiUzhWatQ&s=10" width="30"/> Fun Section
--->
-
-## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBfSwwvyRnWo6VrTsnncFwdCwQ76SQulzySiUzhWatQ&s=10" width="30"/> Current Status
-
-
-<table>
+<table width="100%">
 <tr>
 <td>
 
-**Currently Learning:** `Advanced Django • AI Agents • LangChain`
-
-**Building:** `AI-powered Full Stack Applications`
-
-**Open to Collaboration:** `React • Django • AI Projects`
-
-**Ask me about:** `React, Django, REST APIs, LLM Integration`
-
-**Fun Fact:** `I enjoy turning complex ideas into simple, interactive web applications.`
+```yaml
+learning:    Advanced Django · AI Agents · LangChain
+building:    AI-native full-stack applications
+open_to:     React · Django · AI collaborations
+ask_me:      React, Django, REST APIs, LLM integration
+note:        "I like turning complex ideas into interfaces
+              that feel obvious once they exist."
+```
 
 </td>
 </tr>
@@ -309,23 +207,31 @@ I love learning modern technologies, collaborating with teams, and continuously 
 
 <br/>
 
+## `06` — Elsewhere
+
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="26"/> Quote
-
-> *"First, solve the problem. Then, write the code."*
-> — **Linus Torvalds**
+<a href="https://www.linkedin.com/in/kalpana-j-1370912bb">
+<img src="https://img.shields.io/badge/LinkedIn-0D0B1F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="https://github.com/KalpanaJayapaul">
+<img src="https://img.shields.io/badge/GitHub-0D0B1F?style=for-the-badge&logo=github&logoColor=fff"/>
+</a>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" />
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — **Linus Torvalds**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer"/>
 
 <div align="center">
 
-**Thanks for visiting my profile.**
-<br/>
-*Let's build something amazing together.*
+**Thanks for stopping by — let's build something worth shipping.**
 
 </div>
