@@ -1,9 +1,7 @@
 <div align="center">
 
-<!--<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,15:4C1D95,40:6D28D9,65:8A6CFF,85:4C1D95,100:2E1065&height=280&section=header&text=KALPANA%20J&fontSize=64&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20%2B%20AI%20Systems%20Developer&descAlignY=62&descSize=20&descColor=E9E1FF"/>
-  -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,15:4C1D95,40:6D28D9,65:8A6CFF,85:4C1D95,100:2E1065&height=280&section=header&text=KALPANA%20J&fontSize=64&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=AI Full Stack Developer%20%2B%20AI%20Systems%20Developer&descAlignY=62&descSize=20&descColor=E9E1FF"/>
-  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,15:4C1D95,40:6D28D9,65:8A6CFF,85:4C1D95,100:2E1065&height=280&section=header&text=KALPANA%20J&fontSize=64&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20%2B%20AI%20Systems%20Developer&descAlignY=62&descSize=20&descColor=E9E1FF"/>
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=B8A9FF&center=true&vCenter=true&width=650&lines=React+%2B+Django+%2B+LLM+Orchestration;Shipping+interfaces%2C+not+demos;Currently+compiling..." alt="Typing SVG" />
