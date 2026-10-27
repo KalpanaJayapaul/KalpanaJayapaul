@@ -32,27 +32,10 @@ class Developer {
   constructor() {
     this.name = "Kalpana J";
     this.role = "AI Full-Stack Developer";
-
-    this.stack = [
-      "React.js",
-      "Django REST Framework",
-      "PostgreSQL",
-      "MySQL",
-      "Laravel"
-    ];
-
-    this.aiLayer = [
-      "OpenAI",
-      "Groq",
-      "Gemini",
-      "RAG Pipelines",
-      "AI Agents",
-      "LangChain"
-    ];
-
-    this.philosophy =
-      "Build interfaces that feel intuitive and AI systems that work quietly in the background.";
-  }
+    this.stack = ["React.js","Django REST Framework","PostgreSQL","MySQL","Laravel"];
+    this.aiLayer = ["OpenAI","Groq","Gemini","RAG Pipelines","AI Agents","LangChain"];
+    this.philosophy ="Build interfaces that feel intuitive and AI systems that work quietly in the background.";
+}
 
   currentFocus() {
     return [
