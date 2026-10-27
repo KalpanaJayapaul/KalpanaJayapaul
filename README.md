@@ -25,23 +25,86 @@
 <td width="100%">
 
 ```javascript
+### Developer identity
+
+```javascript
 class Developer {
   constructor() {
-    this.name       = "Kalpana J";
-    this.role       = "Full-Stack + AI Systems Developer";
-    this.stack      = ["React", "Django", "PostgreSQL"];
-    this.aiLayer    = ["OpenAI", "Groq", "Gemini", "LangChain"];
-    this.philosophy = "Interfaces should feel obvious. Systems should feel invisible.";
+    this.name = "Kalpana J";
+    this.role = "AI Full-Stack Developer";
+
+    this.stack = [
+      "React.js",
+      "Django REST Framework",
+      "PostgreSQL",
+      "MySQL",
+      "Laravel"
+    ];
+
+    this.aiLayer = [
+      "OpenAI",
+      "Groq",
+      "Gemini",
+      "RAG Pipelines",
+      "AI Agents",
+      "LangChain"
+    ];
+
+    this.philosophy =
+      "Build interfaces that feel intuitive and AI systems that work quietly in the background.";
   }
 
   currentFocus() {
-    return ["Agentic workflows", "RAG pipelines", "Real-time UI state"];
+    return [
+      "Advanced Django & REST API development",
+      "Agentic AI workflows",
+      "RAG pipelines & document intelligence",
+      "Real-time UI state & AI integration"
+    ];
   }
 }
 
 const kalpana = new Developer();
+
 console.log(kalpana.philosophy);
-// → "Interfaces should feel obvious. Systems should feel invisible."
+// → Build interfaces that feel intuitive and AI systems that work quietly in the background.
+```
+
+---
+
+### Process log
+
+```yaml
+status:
+  learning:
+    - Advanced Django
+    - AI Agents
+    - LangChain
+
+  building:
+    - AI-native full-stack applications
+    - RAG-based document assistants
+    - AI-powered web experiences
+
+  open_to:
+    - React.js collaborations
+    - Django & Python development
+    - Generative AI integrations
+    - Full-stack development opportunities
+
+  ask_me:
+    - React.js
+    - Django REST Framework
+    - REST API development
+    - LLM integration
+    - RAG pipelines
+    - AI-powered applications
+
+log:
+  - "Interfaces should feel obvious once they exist."
+  - "The best AI feature is the one users don't notice is AI."
+```
+
 ```
 
 </td>
@@ -189,15 +252,86 @@ Version-controlled, tested, documented — code built to survive contact with a 
 <tr><td>
 
 ```yaml
+### Developer identity
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Kalpana J";
+    this.role = "AI Full-Stack Developer";
+
+    this.stack = [
+      "React.js",
+      "Django REST Framework",
+      "PostgreSQL",
+      "MySQL",
+      "Laravel"
+    ];
+
+    this.aiLayer = [
+      "OpenAI",
+      "Groq",
+      "Gemini",
+      "RAG Pipelines",
+      "AI Agents",
+      "LangChain"
+    ];
+
+    this.philosophy =
+      "Build interfaces that feel intuitive and AI systems that work quietly in the background.";
+  }
+
+  currentFocus() {
+    return [
+      "Advanced Django & REST API development",
+      "Agentic AI workflows",
+      "RAG pipelines & document intelligence",
+      "Real-time UI state & AI integration"
+    ];
+  }
+}
+
+const kalpana = new Developer();
+
+console.log(kalpana.philosophy);
+// → Build interfaces that feel intuitive and AI systems that work quietly in the background.
+```
+
+---
+
+### Process log
+
+```yaml
 status:
-  learning:  [Advanced Django, AI Agents, LangChain]
-  building:  AI-native full-stack applications
-  open_to:   React · Django · AI collaborations
-  ask_me:    React, Django, REST APIs, LLM integration
+  learning:
+    - Advanced Django
+    - AI Agents
+    - LangChain
+
+  building:
+    - AI-native full-stack applications
+    - RAG-based document assistants
+    - AI-powered web experiences
+
+  open_to:
+    - React.js collaborations
+    - Django & Python development
+    - Generative AI integrations
+    - Full-stack development opportunities
+
+  ask_me:
+    - React.js
+    - Django REST Framework
+    - REST API development
+    - LLM integration
+    - RAG pipelines
+    - AI-powered applications
 
 log:
   - "Interfaces should feel obvious once they exist."
   - "The best AI feature is the one users don't notice is AI."
+```
+
 ```
 
 </td></tr>
