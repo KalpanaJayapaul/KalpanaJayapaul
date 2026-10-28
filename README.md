@@ -156,35 +156,36 @@ Version-controlled, tested, documented — code built to survive contact with a 
 
 ## ⟡ TELEMETRY
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KalpanaJayapaul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=05040D&title_color=8A6CFF&icon_color=6C63FF&text_color=E0D9FF&ring_color=8A6CFF" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=05040D&title_color=8A6CFF&text_color=E0D9FF" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KalpanaJayapaul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05040D&title_color=8A6CFF&icon_color=6C63FF&text_color=E0D9FF&ring_color=8A6CFF" width="49%" alt="GitHub Statistics"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=KalpanaJayapaul&theme=tokyonight&hide_border=true&background=05040D&ring=8A6CFF&fire=6C63FF&currStreakLabel=8A6CFF&sideLabels=E0D9FF&currStreakNum=E0D9FF&sideNums=E0D9FF" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpanaJayapaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=05040D&title_color=8A6CFF&text_color=E0D9FF" width="45%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalpanaJayapaul&theme=tokyo-night&hide_border=true&bg_color=05040D&color=8A6CFF&line=6C63FF&point=E0D9FF&area=true&area_color=6C63FF" width="90%" />
+<img src="https://streak-stats.demolab.com?user=KalpanaJayapaul&theme=tokyonight&hide_border=true&background=05040D&ring=8A6CFF&fire=6C63FF&currStreakLabel=8A6CFF&sideLabels=E0D9FF&currStreakNum=E0D9FF&sideNums=E0D9FF" width="70%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalpanaJayapaul&theme=tokyonight" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalpanaJayapaul&theme=tokyo-night&hide_border=true&bg_color=05040D&color=8A6CFF&line=6C63FF&point=E0D9FF&area=true&area_color=6C63FF" width="95%" alt="Contribution Graph"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KalpanaJayapaul&color=8A6CFF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=05040D)
-![Followers](https://img.shields.io/github/followers/KalpanaJayapaul?style=for-the-badge&color=8A6CFF&labelColor=05040D)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalpanaJayapaul&theme=tokyonight" width="95%" alt="Profile Summary"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=KalpanaJayapaul&color=8A6CFF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=05040D" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/KalpanaJayapaul?style=for-the-badge&color=8A6CFF&labelColor=05040D" alt="GitHub Followers"/>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
 
-<div align="center">
 
 ## ⟡ PROCESS LOG
 
